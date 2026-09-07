@@ -1,0 +1,8 @@
+openai
+numpy
+faiss-cpu
+networkx
+tiktoken
+dotenv
+langchain
+langchain-openai
