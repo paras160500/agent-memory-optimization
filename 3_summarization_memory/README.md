@@ -12,6 +12,8 @@
 
 *Part of the [Agent Memory Optimization](https://github.com/paras160500/agent-memory-optimization) project.*
 
+![Architecture Diagram](diagram.png)
+
 </div>
 
 ---
