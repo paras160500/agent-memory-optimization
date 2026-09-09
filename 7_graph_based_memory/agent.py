@@ -40,7 +40,7 @@ class GraphBaseMemoryAgent:
         # Extract knowledge
         full_text = (
             f"User : {user_message}\n"
-            f"Assistant : {response.contnet}"
+            f"Assistant : {response.content}"
         )
         triples = self.extractor.extract_triples(full_text)
 
