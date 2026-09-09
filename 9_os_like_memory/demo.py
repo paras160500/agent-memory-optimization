@@ -59,3 +59,7 @@ def main():
             f"{stats['pages_in']}"
         )
     agent.get_token_tracker().print_total_report()
+
+
+if __name__ == "__main__":
+    main()
